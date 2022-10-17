@@ -1,0 +1,12 @@
+{
+  "name": "flexiana",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "tests": "npx cypress open",
+    "headless": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
